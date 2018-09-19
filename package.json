@@ -1,0 +1,26 @@
+{
+  "name": "ausg_serverless_spa_portfolio",
+  "version": "1.0.0",
+  "description": "AUSG_serverless_spa_portfolio",
+  "main": "handler.js",
+  "scripts": {
+    "start": "sls offline --stage=local",
+    "deploy": "sls deploy",
+    "remove": "sls remove"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banetta/AUSG_serverless_spa_portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banetta/AUSG_serverless_spa_portfolio/issues"
+  },
+  "homepage": "https://github.com/banetta/AUSG_serverless_spa_portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "serverless-http": "^1.6.0",
+    "serverless-offline": "^3.25.12"
+  }
+}
