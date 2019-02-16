@@ -390,8 +390,25 @@ Github vs AWS vs Google
   - 제대로 한다면 거의 끝판왕급 직군
 - ML/DL Enginner
 
-
-
-
 ##  친해지면 안어려운 오픈소스 이야기 - 태재영 (지그재그) [B Hall]
 
+-   React 기반 디자인 FrameWork
+-   Material design 이용
+
+License?
+-   허용범위
+-   MIT : 코드 공개 의무 x
+-   GPL : 코드 공개 의무 o
+-   소니 & 마소는 이 GPL을 안지켜서 소송을 당한 이력이 있음 주의할것
+
+
+Issue?
+-   github의 Issue기능을 이용하면 효율적으로 버그나 문제 해결 가능! 기록을 남겨서 다른사람에게 도움을 줄수도 있음
+-   관리자 뿐만 아니라 오픈소스 참여자도 답변 할 수 있으므로 오픈소스에 기여할 수 있다!
+
+Pull Request?
+
+
+Q&A
+    Q1.
+    A1.
