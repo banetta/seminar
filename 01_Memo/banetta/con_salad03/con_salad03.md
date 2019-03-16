@@ -190,7 +190,7 @@ user&&
 
 -   환경 : 빠른 실행과 저렴한 MSA와 파이썬
 -   패턴 : sanic 클린 아키텍쳐 docker pytesr lint
--   guqdjq : 컨벤션 템플릿 github zhem flqb
+-   협업 : 컨벤션 템플릿 github 코드 리뷰
 
 -   Q&A
     -   무중단 배포는 어떻게 구성했는지?
