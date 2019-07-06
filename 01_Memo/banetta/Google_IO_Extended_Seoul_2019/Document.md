@@ -70,13 +70,26 @@ Chrome Update
      -    Progressive Web App (PWA)을 통해 제공하려고 노력중
      -    Chrome 76버전 부터는 데스크톱 앱도 지원
 
-##  진겸(Festa) & 김지훈(Festa) / AWS 에서 GCP 옮겨가기 : A to Z 말고 A to G
+##  김석용(Rootone / GDG Songdo) / Flutter를 소개 합니다!
 
-
-##  조은(Google Developers Experts Web Technology) / Google Search and JavaScript Sites
-
-
-##  한성민(Naver Clova) / AllReduce for distributed learning
-
-
+-   Cross Platform
+    -   하나의 코드로 다양한 OS에서 동작 가능
+-   Trade Off
+    -   유저가 이미 갖고 있는 네이티브 경험을 해침
+-   Flutter
+    -   모바일 오픈소스 플랫폼
+    -   Single CodeBase로 Android / ios앱 개발 가능
+    -   Fuchsia
+        -   구글에서 공개한 OS 오픈소스 프로젝트
+        -   리눅스 커널이 아닌 지르콘 마이크로 커널을 이용
+    -   UI등 애니메이션등 빠르고 효과적으로 개발 가능
+    -   Dart 2.1 도 동시에 발표(다른 발표내용에 있음)
+-   SKIA
+    -   Flutter에서 화면 그려주는 역할
+    -   플래시와 유사함
+-  하위 호환성은 아이폰 4s / 젤리빈 os 레벨부터 지원함
+-  Flutter Componants
+-  Flutter Widgets
+   - 굉장히 다양한 widgets가 제공됨
+   - 왜 위젯을 사용할까?
 
